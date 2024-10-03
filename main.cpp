@@ -120,6 +120,7 @@ int main() {
     marketMega.getBasket();
     marketMega.remove();
     marketMega.getBasket();
+    std::cout<<"enter date in main\n";
     return 0;
 }
 
